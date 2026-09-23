@@ -11,3 +11,6 @@ Spolsky argues that the worst strategic mistake a software company can make is t
 The article is over two decades old, but it still feels relevant. Developers (myself included) tend to think *"it's harder to read code than to write it, so I'll just write it again."* Spolsky shows why that instinct is dangerous. Instead of starting over, he recommends **incremental refactoring**: improving the architecture, efficiency, or readability of an existing codebase piece by piece. This connects directly to agile practices like continuous refactoring and small, frequent changes, and to tools like git that make incremental change safe and reversible.
 
 > "The idea that new code is better than old is patently absurd. Old code has been *used*. It has been *tested*."
+
+## comment
+Interesting
