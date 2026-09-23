@@ -15,3 +15,5 @@ The article is over two decades old, but it still feels relevant. Developers (my
 ## Comment by Estifanos-Wassie
 
 Great choice of article! I actually picked the same one for my own README, which shows how well it has held up over time. I especially agree with your point that "ugly" old code usually contains hidden bug fixes for real-world problems. I also like how you connected Spolsky's advice to agile practices and to git: small, frequent commits are a practical way to follow his recommendation of improving code step by step instead of rewriting it from scratch.
+## comment
+Interesting
